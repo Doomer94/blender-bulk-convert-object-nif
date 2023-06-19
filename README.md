@@ -1,0 +1,1 @@
+# blender-bulk-convert-object-nif
